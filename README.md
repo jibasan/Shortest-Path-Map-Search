@@ -5,6 +5,7 @@ Provide JavaTM classes that implement the following three search algorithms: uni
 compatible with a collection of provided JavaTM classes that implement simple street maps, allowing your search algorithms to be used to find the shortest routes between locations on such maps.
 
 All of these classes must have the following features . . .
+
 • a constructor that takes four arguments:
   1. a complete StreetMap object, encoding the map to be searched
   2. a String providing the name of the starting location
